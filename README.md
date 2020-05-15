@@ -1,3 +1,3 @@
 # 16
 
-A clone of 8
+A clone of 16
